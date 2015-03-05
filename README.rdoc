@@ -1,0 +1,4 @@
+This is the Blog exercise from RailsGuides at 
+http://guides.rubyonrails.org/getting_started.html
+
+Created by Tom Lee, 3/05/2015.
